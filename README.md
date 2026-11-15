@@ -1,0 +1,1 @@
+# SigmaOS-tools-owe\n\nHigh-performance video, GIF, and still wallpaper engine for Hyprland (omacom/owe parity).\n\nPart of the SigmaOS sovereign ecosystem.\n

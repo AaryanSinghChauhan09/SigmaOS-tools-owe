@@ -1,0 +1,9 @@
+[package]
+name = "sigmaos-tools-owe"
+version = "0.1.0"
+edition = "2021"
+authors = ["Aaryan Singh Chauhan <aaryansinghchauhan@sigmaos.internal>"]
+description = "Wallpaper engine for Hyprland playing video, GIF, and still backgrounds"
+license = "MIT"
+
+[dependencies]
