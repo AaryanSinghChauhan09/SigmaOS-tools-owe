@@ -3,7 +3,7 @@ name = "SigmaOS-tools-owe"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "tools-owe component"
+description = "tools owe component"
 upstream = []
 
 [contract]
